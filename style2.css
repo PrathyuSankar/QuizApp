@@ -6,7 +6,7 @@
   }
   body {
     height: 100vh;
-    background: url("quiz1.jpg");
+    background-image: url("quiz1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
